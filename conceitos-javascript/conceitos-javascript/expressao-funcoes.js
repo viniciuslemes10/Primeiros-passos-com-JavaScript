@@ -1,5 +1,5 @@
 // A principal diferença de uma expressão de função e uma declaração de função é
-// o HOSTING que está presente na expressão da função, o que isso quer dizer?
+// o HOISTING que está presente na expressão da função, o que isso quer dizer?
 // que na expressão de função você só pode exibir no console se você ja estiver 
 // inicializado, vamos para o exemplo.
 
